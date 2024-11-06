@@ -1,4 +1,4 @@
-# browsergameslist
+# browser games
 
 [QuickDraw](https://quickdraw.withgoogle.com/#)
 
